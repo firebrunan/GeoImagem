@@ -7,7 +7,7 @@
     tools:context=".Splash">
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/pao"
         android:layout_width="195dp"
         android:layout_height="203dp"
         android:layout_alignParentEnd="true"

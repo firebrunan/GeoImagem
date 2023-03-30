@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //receber imagem da camera e mostrar no app
-    ImageViewFoto = (ImageView) findViewById(R.id.image_foto);
+    ImageViewFoto = (ImageView) findViewById(R.id.pao);
     findViewById(R.id.btn_pic).setOnClickListener(new View.OnClickListener() {
 
         //começar comando de tirar foto ao clicar

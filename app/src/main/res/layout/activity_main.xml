@@ -19,15 +19,16 @@
         app:layout_constraintVertical_bias="0.842" />
 
     <ImageView
-        android:id="@+id/image_foto"
+        android:id="@+id/pao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.316"
-        tools:srcCompat="@tools:sample/avatars" />
+        app:layout_constraintVertical_bias="0.213"
+        tools:srcCompat="@mipmap/pao" />
 
     <Button
         android:id="@+id/btn_gps"
